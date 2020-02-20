@@ -1,0 +1,25 @@
+{
+  "name": "tuntum",
+  "version": "1.0.3",
+  "description": "A light weight JavaScript library for toggling between light and dark themes",
+  "main": "tuntum.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcofie/tuntum.js.git"
+  },
+  "keywords": [
+    "tuntum"
+  ],
+  "author": "Maxwell Cofie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcofie/tuntum.js/issues"
+  },
+  "homepage": "https://github.com/mcofie/tuntum.js#readme"
+}
