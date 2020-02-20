@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Crimson Text', serif !important;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lacquer', sans-serif;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.5em;
+}
+
+
+body {
+    background-color: #222222 !important;
+    height: 100vh;
+}
+
+section {
+    float: left;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.container {
+    width: 90%;
+    padding: 0 5%;
+}
+
+.left, .right {
+    width: 50%;
+    float: left;
+}
+
+.left {
+    background-image: url("./imgs/ReadingSideDoodleAssent.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    padding: 200px 0;
+}
+
+.left {
+    text-align: center;
+    margin-top: 120px;
+}
+
+
+.right {
+    padding: 120px 0;
+    color: #FFFFFF;
+}
+
+.right ul li {
+    list-style: none;
+    margin: 10px 0;
+}
+
+button {
+    width: 120px;
+    float: left;
+    background-color: #FFF;
+    height: 45px;
+    border: none;
+    color: #222;
+    font-size: 1em;
+    border-radius: 5px;
+}
+
+
+section {
+    background-color: #000;
+}
